@@ -28,7 +28,9 @@ Step followed
 
 
 ![welcome](img/abhishek/welcome.png)
-![welcome](img/abhishek/Abhishek_Fork.png)
-![welcome](img/abhishek/Project_Board_Abhishek_task.png)
+![abhishek_form](img/abhishek/Abhishek_Fork.png)
+![abhishek_project_board](img/abhishek/Project_Board_Abhishek_task.png)
+![abhishek_pr](img/abhishek/Abhishek_Pull_request.PNG)
+
 
 ## Changes done by Abhishek : End

@@ -30,8 +30,8 @@ Step followed
 ![welcome](img/abhishek/welcome.png)
 ![abhishek_form](img/abhishek/Abhishek_Fork.png)
 ![abhishek_project_board](img/abhishek/Project_Board_Abhishek_task.png)
-![abhishek_pr](img/abhishek/Abhishek_Pull_request.PNG)
-![abhishek_review_comments](img/abhishek/Abhishek_pr.JPG)
+![abhishek_pr](img/abhishek/Abhishek_Pull_request.png)
+![abhishek_review_comments](img/abhishek/Abhishek_pr.png)
 
 
 ## Changes done by Abhishek : End

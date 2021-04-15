@@ -17,20 +17,21 @@ Step followed
  
  * GIt command used
  
- git clone https://github.com/abshrv/OSSE-Assignment-4.git
- git branch feature/show_welcome_page master
- git push -u origin feature/show_welcome_pag
- git status
- git checkout feature/show_welcome_page
- git add .
- git commit -m "added welcome container"
- git push
+ git clone https://github.com/abshrv/OSSE-Assignment-4.git  
+ git branch feature/show_welcome_page master  
+ git push -u origin feature/show_welcome_pag  
+ git status  
+ git checkout feature/show_welcome_page  
+ git add .  
+ git commit -m "added welcome container"  
+ git push  
 
 
 ![welcome](img/abhishek/welcome.png)
 ![abhishek_form](img/abhishek/Abhishek_Fork.png)
 ![abhishek_project_board](img/abhishek/Project_Board_Abhishek_task.png)
 ![abhishek_pr](img/abhishek/Abhishek_Pull_request.PNG)
+![abhishek_review_comments](img/abhishek/Abhishek_pr.JPG)
 
 
 ## Changes done by Abhishek : End

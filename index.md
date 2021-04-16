@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to OSSE-Assignment-4 for Group 3
 
-You can use the [editor on GitHub](https://github.com/VinayAdaki/OSSE-Assignment-4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub pages are basically to show that gitHub pages are useful when we work on any open source project.
+This is a good platform to showcase what our product does and even we do not need to host any websiite for this.
+Using gitHub pages and free templets we can build our static web page and share with others.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About project
+- This project is Dummy spring boot project.
+- In this we have learned and showcased how as a team we can collaborate and work on real project using gitHub distributed source code version control.
+- It helps to share thoughts on active work being doone using `Pull Request`.
+- With the different feature, we can suggest changes, review existing code, provide `approval` or ask for changes using `change request`.
+- under `Projects` tab we can maintain workflow of the project. it gives the clar visibility on what is in progress, what is completed and what needs to be started which is in planned state.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VinayAdaki/OSSE-Assignment-4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We can use markdown language to build our gitHub web pages.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please contact group 3 assignment members for any technical support.

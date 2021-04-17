@@ -4,10 +4,9 @@ This is assignment 4 of Open Source Software Engineering.
 
 **Changes done by Aby : Start**
 
-Ide used to make project : Eclipse
+IDE used to make project : Eclipse
 
 **Step followed**
-
 
     1. Created fork
 
@@ -18,8 +17,6 @@ Ide used to make project : Eclipse
     4. Push to remote branch
 
     5. Create a PR and assign it to Vinay Adaki
-
-
 
 **Git Commands Used**
 
